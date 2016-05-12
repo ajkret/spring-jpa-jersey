@@ -15,3 +15,7 @@ To run, type
 
 	java -jar target/spring-jpa-jersey.jar
 
+Then, open a browser and type:
+
+    http://localhost:8090/rest/cities?country=Uni
+    

@@ -4,7 +4,7 @@ USE `SAMPLE`;
 
 CREATE TABLE IF NOT EXISTS `Country` (
     `id` INT NOT NULL AUTO_INCREMENT,
-    `name` VARCHAR(40)
+    `name` VARCHAR(40),
     PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
